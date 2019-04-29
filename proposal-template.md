@@ -4,7 +4,6 @@
 Group members: 
 * Apple
 * Banana
-* Char Kway Teow
 
 Feel free to change the headers, but do address the points raised. 
 
